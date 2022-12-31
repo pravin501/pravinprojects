@@ -1,0 +1,235 @@
+ranks,cca2,country,Migrants(net),Fert.Rate,Med.Age,Urban Pop%
+1,CN,China,-348399,1.7,38,61.00%
+2,IN,India,-532687,2.2,28,35.00%
+3,US,United States,954806,1.8,38,83.00%
+4,ID,Indonesia,-98955,2.3,30,56.00%
+5,PK,Pakistan,-233379,3.6,23,35.00%
+6,NG,Nigeria,-60000,5.4,18,52.00%
+7,BR,Brazil,21200,1.7,33,88.00%
+8,BD,Bangladesh,-369501,2.1,28,39.00%
+9,RU,Russia,182456,1.8,40,74.00%
+10,MX,Mexico,-60000,5.4,29,84.00%
+11,JP,Japan,71560,1.4,48,92.00%
+12,ET,Ethiopia,30000,4.3,19,21.00%
+13,PH,Philippines,-67152,2.6,26,47.00%
+14,EG,Egypt,-38033,3.3,25,43.00%
+15,CD,DR Congo,23861,6,17,46.00%
+16,VN,Vietnam,-80000,2.1,32,38.00%
+17,IR,Iran,-55000,2.2,32,76.00%
+18,TR,Turkey,283922,2.1,32,76.00%
+19,DE,Germany,543822,1.6,46,76.00%
+20,TH,Thailand,19444,1.5,40,51.00%
+21,GB,United Kingdom,260650,1.8,40,83.00%
+22,TZ,Tanzania,-40076,4.9,18,37.00%
+23,FR,France,36527,1.9,42,82.00%
+24,ZA,South Africa,145405,2.4,28,67.00%
+25,IT,Italy,148943,1.3,47,69.00%
+26,MM,Myanmar,-163313,2.2,29,31.00%
+27,KE,Kenya,-10000,3.5,20,28.00%
+28,CO,Colombia,204796,1.8,31,80.00%
+29,KR,South Korea,11731,1.1,44,82.00%
+30,ES,Spain,40000,1.3,45,80.00%
+31,UG,Uganda,168694,5,17,26.00%
+32,SD,Sudan,-50000,4.4,20,35.00%
+33,AR,Argentina,4800,2.3,32,93.00%
+34,DZ,Algeria,-10000,3.5,29,73.00%
+35,IQ,Iraq,7834,3.7,21,73.00%
+36,AF,Afghanistan,-62920,4.6,18,25.00%
+37,PL,Poland,-29395,1.4,42,60.00%
+38,UA,Ukraine,10000,1.4,41,69.00%
+39,CA,Canada,242032,1.5,41,81.00%
+40,MA,Morocco,-51419,2.4,30,64.00%
+41,SA,Saudi Arabia,134979,2.3,32,84.00%
+42,AO,Angola,6413,5.6,17,67.00%
+43,UZ,Uzbekistan,-8863,2.4,28,50.00%
+44,PE,Peru,99069,2.3,31,79.00%
+45,MY,Malaysia,50000,2,30,78.00%
+46,YE,Yemen,-30000,3.8,20,38.00%
+47,GH,Ghana,-10000,3.5,22,57.00%
+48,MZ,Mozambique,-5000,4.9,18,38.00%
+49,NP,Nepal,41710,1.9,25,21.00%
+50,MG,Madagascar,-1500,4.1,20,39.00%
+51,VE,Venezuela,-653249,2.3,30,N.A.
+52,CI,Ivory Coast,#N/A,#N/A,#N/A,#N/A
+53,CM,Cameroon,-4800,4.6,19,56.00%
+54,NE,Niger,4000,7,15,17.00%
+55,AU,Australia,158246,1.8,38,86.00%
+56,KP,North Korea,-5403,1.9,35,63.00%
+57,TW,Taiwan,30001,1.2,42,79.00%
+58,BF,Burkina Faso,-25000,5.2,18,31.00%
+59,ML,Mali,-40000,5.9,16,44.00%
+60,SY,Syria,-427391,2.8,26,60.00%
+61,LK,Sri Lanka,-97986,2.2,34,18.00%
+62,MW,Malawi,-16053,4.3,18,18.00%
+63,ZM,Zambia,-8000,4.7,18,45.00%
+64,RO,Romania,-73999,1.6,43,55.00%
+65,CL,Chile,111708,1.7,35,85.00%
+66,KZ,Kazakhstan,-18000,2.8,31,58.00%
+67,EC,Ecuador,36400,2.4,28,63.00%
+68,GT,Guatemala,-9215,2.9,23,52.00%
+69,TD,Chad,2000,5.8,17,23.00%
+70,SO,Somalia,-40000,5.9,17,47.00%
+71,NL,Netherlands,16000,1.7,43,92.00%
+72,SN,Senegal,-20000,4.7,19,49.00%
+73,KH,Cambodia,-30000,3.8,26,24.00%
+74,ZW,Zimbabwe,-116858,3.6,19,38.00%
+75,GN,Guinea,-4000,4.7,18,39.00%
+76,RW,Rwanda,-9000,4.1,20,18.00%
+77,BJ,Benin,-2000,4.9,19,48.00%
+78,BI,Burundi,2001,5.5,17,14.00%
+79,TN,Tunisia,-4000,4.7,33,70.00%
+80,BO,Bolivia,-9504,2.8,26,69.00%
+81,BE,Belgium,48000,1.7,42,98.00%
+82,HT,Haiti,-35000,3,24,57.00%
+83,JO,Jordan,10220,2.8,24,91.00%
+84,DO,Dominican Republic,-30000,3.8,28,85.00%
+85,CU,Cuba,-14400,1.6,42,78.00%
+86,SS,South Sudan,-174200,4.7,19,25.00%
+87,SE,Sweden,40000,1.3,41,88.00%
+88,CZ,Czech Republic,#N/A,#N/A,#N/A,#N/A
+89,HN,Honduras,-6800,2.5,24,57.00%
+90,GR,Greece,-16000,1.3,46,85.00%
+91,AZ,Azerbaijan,1200,2.1,32,56.00%
+92,PT,Portugal,-6000,1.3,46,66.00%
+93,PG,Papua New Guinea,-800,3.6,22,13.00%
+94,HU,Hungary,6000,1.5,43,72.00%
+95,TJ,Tajikistan,-20000,4.7,22,27.00%
+96,BY,Belarus,8730,1.7,40,79.00%
+97,AE,United Arab Emirates,40000,1.3,33,86.00%
+98,IL,Israel,10000,1.4,30,93.00%
+99,AT,Austria,65000,1.5,43,57.00%
+100,TG,Togo,-2000,4.9,19,43.00%
+101,CH,Switzerland,52000,1.5,43,74.00%
+102,SL,Sierra Leone,-4200,4.3,19,43.00%
+103,LA,Laos,-14704,2.7,24,36.00%
+104,HK,Hong Kong,29308,1.3,45,N.A.
+105,RS,Serbia,4000,7,42,56.00%
+106,NI,Nicaragua,-21272,2.4,26,57.00%
+107,LY,Libya,-1999,2.3,29,78.00%
+108,BG,Bulgaria,-4800,4.6,45,76.00%
+109,PY,Paraguay,-16556,2.4,26,62.00%
+110,KG,Kyrgyzstan,-4000,4.7,26,36.00%
+111,TM,Turkmenistan,-5000,4.9,27,53.00%
+112,SV,El Salvador,-40539,2.1,28,73.00%
+113,SG,Singapore,27028,1.2,42,N.A.
+114,CG,Republic of the Congo,#N/A,#N/A,#N/A,#N/A
+115,DK,Denmark,15200,1.8,42,88.00%
+116,SK,Slovakia,1485,1.5,41,54.00%
+117,CF,Central African Republic,-40000,5.9,18,43.00%
+118,FI,Finland,14000,1.5,43,86.00%
+119,LB,Lebanon,-30012,2.1,30,78.00%
+120,NO,Norway,28000,1.7,40,83.00%
+121,LR,Liberia,-5000,4.9,19,53.00%
+122,PS,Palestine,#N/A,#N/A,#N/A,#N/A
+123,NZ,New Zealand,14881,1.9,38,87.00%
+124,CR,Costa Rica,4200,1.8,33,80.00%
+125,IE,Ireland,23604,1.8,38,63.00%
+126,MR,Mauritania,5000,4.6,20,57.00%
+127,OM,Oman,87400,2.9,31,87.00%
+128,PA,Panama,11200,2.5,30,68.00%
+129,KW,Kuwait,39520,2.1,37,N.A.
+130,HR,Croatia,-8001,1.4,44,58.00%
+131,GE,Georgia,-10000,3.5,38,58.00%
+132,ER,Eritrea,-39858,4.1,19,63.00%
+133,UY,Uruguay,-3000,2,36,96.00%
+134,MN,Mongolia,-852,2.9,28,67.00%
+135,MD,Moldova,-1387,1.3,38,43.00%
+136,PR,Puerto Rico,-97986,2.2,44,N.A.
+137,BA,Bosnia and Herzegovina,-21585,1.3,43,52.00%
+138,AL,Albania,-14000,1.6,36,63.00%
+139,JM,Jamaica,-11332,2,31,55.00%
+140,AM,Armenia,-4998,1.8,35,63.00%
+141,LT,Lithuania,-32780,1.7,45,71.00%
+142,GM,Gambia,-3087,5.3,18,59.00%
+143,QA,Qatar,40000,1.3,32,96.00%
+144,BW,Botswana,3000,2.9,24,73.00%
+145,NA,Namibia,-4806,3.4,22,55.00%
+146,GA,Gabon,3260,4,23,87.00%
+147,LS,Lesotho,-10047,3.2,24,31.00%
+148,SI,Slovenia,2000,5.8,45,55.00%
+149,GW,Guinea-Bissau,-1399,4.5,19,45.00%
+150,MK,North Macedonia,-1000,1.5,39,59.00%
+151,LV,Latvia,-14837,1.7,44,69.00%
+152,GQ,Equatorial Guinea,16000,1.7,22,73.00%
+153,TT,Trinidad and Tobago,-800,3.6,36,52.00%
+154,BH,Bahrain,47800,2,32,89.00%
+155,TL,Timor-Leste,-5385,4.1,21,33.00%
+156,EE,Estonia,3911,1.6,42,68.00%
+157,MU,Mauritius,0,1.4,37,41.00%
+158,CY,Cyprus,5000,4.6,37,67.00%
+159,SZ,Eswatini,-8353,3,21,30.00%
+160,DJ,Djibouti,900,2.8,27,79.00%
+161,RE,Reunion,#N/A,#N/A,#N/A,#N/A
+162,FJ,Fiji,-6202,2.8,28,59.00%
+163,KM,Comoros,-2000,4.9,20,29.00%
+164,GY,Guyana,-6000,1.3,27,27.00%
+165,BT,Bhutan,320,2,28,46.00%
+166,SB,Solomon Islands,-1600,4.4,20,23.00%
+167,MO,Macau,#N/A,#N/A,#N/A,#N/A
+168,LU,Luxembourg,9741,1.5,40,88.00%
+169,ME,Montenegro,-480,1.8,39,68.00%
+170,SR,Suriname,-1000,1.5,29,65.00%
+171,CV,Cape Verde,#N/A,#N/A,#N/A,#N/A
+172,EH,Western Sahara,5582,2.4,28,87.00%
+173,MT,Malta,900,2.8,43,93.00%
+174,MV,Maldives,11370,1.9,30,35.00%
+175,BN,Brunei,0,1.4,32,80.00%
+176,BS,Bahamas,1000,1.8,32,86.00%
+177,BZ,Belize,1200,2.1,25,46.00%
+178,GP,Guadeloupe,-1440,2.2,44,N.A.
+179,IS,Iceland,380,1.8,37,94.00%
+180,MQ,Martinique,-960,1.9,47,92.00%
+181,VU,Vanuatu,120,3.8,21,24.00%
+182,YT,Mayotte,0,1.4,20,46.00%
+183,PF,French Polynesia,-1000,1.5,34,64.00%
+184,GF,French Guiana,1200,2.1,25,87.00%
+185,NC,New Caledonia,502,2,34,72.00%
+186,BB,Barbados,-79,1.6,40,31.00%
+187,ST,Sao Tome and Principe,#N/A,#N/A,#N/A,#N/A
+188,WS,Samoa,-2803,3.9,22,18.00%
+189,CW,Curacao,#N/A,#N/A,#N/A,#N/A
+190,LC,Saint Lucia,0,1.4,34,19.00%
+191,GU,Guam,-506,2.3,31,95.00%
+192,KI,Kiribati,-800,3.6,23,57.00%
+193,GD,Grenada,-200,2.1,32,35.00%
+194,FM,Micronesia,-2957,2.9,27,68.00%
+195,JE,Jersey,#N/A,#N/A,#N/A,#N/A
+196,SC,Seychelles,-200,2.1,34,56.00%
+197,TO,Tonga,-800,3.6,22,24.00%
+198,AW,Aruba,201,1.9,41,44.00%
+199,VC,Saint Vincent and the Grenadines,#N/A,#N/A,#N/A,#N/A
+200,VI,United States Virgin Islands,#N/A,#N/A,#N/A,#N/A
+201,AG,Antigua and Barbuda,0,1.4,34,26.00%
+202,IM,Isle of Man,0,1.4,N.A.,53.00%
+203,AD,Andorra,0,1.4,N.A.,88.00%
+204,DM,Dominica,0,1.4,N.A.,74.00%
+205,KY,Cayman Islands,0,1.4,N.A.,97.00%
+206,BM,Bermuda,0,1.4,N.A.,97.00%
+207,GG,Guernsey,#N/A,#N/A,#N/A,#N/A
+208,GL,Greenland,0,1.4,N.A.,87.00%
+209,FO,Faroe Islands,#N/A,#N/A,#N/A,#N/A
+210,MP,Northern Mariana Islands,0,1.4,N.A.,88.00%
+211,KN,Saint Kitts and Nevis,#N/A,#N/A,#N/A,#N/A
+212,TC,Turks and Caicos Islands,#N/A,#N/A,#N/A,#N/A
+213,AS,American Samoa,0,1.4,N.A.,88.00%
+214,SX,Sint Maarten,0,1.4,N.A.,96.00%
+215,MH,Marshall Islands,0,1.4,N.A.,70.00%
+216,LI,Liechtenstein,0,1.4,N.A.,15.00%
+217,MC,Monaco,0,1.4,N.A.,N.A.
+218,SM,San Marino,0,1.4,N.A.,97.00%
+219,GI,Gibraltar,0,1.4,N.A.,N.A.
+220,MF,Saint Martin,0,1.4,N.A.,0.00%
+221,VG,British Virgin Islands,0,1.4,N.A.,52.00%
+222,PW,Palau,0,1.4,N.A.,N.A.
+223,CK,Cook Islands,0,1.4,N.A.,75.00%
+224,AI,Anguilla,0,1.4,N.A.,N.A.
+225,NR,Nauru,0,1.4,N.A.,N.A.
+226,WF,Wallis and Futuna,#N/A,#N/A,#N/A,#N/A
+227,TV,Tuvalu,0,1.4,N.A.,62.00%
+228,BL,Saint Barthelemy,0,1.4,N.A.,0.00%
+229,PM,Saint Pierre and Miquelon,#N/A,#N/A,#N/A,#N/A
+230,MS,Montserrat,0,1.4,N.A.,10.00%
+231,FK,Falkland Islands,0,1.4,N.A.,66.00%
+232,NU,Niue,0,1.4,N.A.,46.00%
+233,TK,Tokelau,0,1.4,N.A.,0.00%
+234,VA,Vatican City,#N/A,#N/A,#N/A,#N/A
